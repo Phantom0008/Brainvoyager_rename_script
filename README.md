@@ -2,9 +2,10 @@
 A programm for converting and anonymizing huge amouts of MRT fies via Brainvoyager
 
 ###Important###
+
 I am not responsible for any damage of any kind!
 
-If you use parts of it or the whole script please linke me if it has helped you;)
+If you use parts of it or the whole script please link me if it has helped you ;)
 
 ###Important###
 
@@ -33,3 +34,6 @@ It finds the MP_range folder (specified by the MRT scanner the data is coming fr
 The script completely walks over the tree and renames and anonymizes all names of your patients/clients for further processing.
 
 I am very happy if you leave me some ritique/questions or correct some errors of any kind or develop it further.
+
+Thank you in advance,
+Phantom0008
